@@ -18,6 +18,9 @@ Majortiy thinks not possible
 - machine has human characteristics, e.g. emotion, is it necessary to have AI?
 - ref wikipedia
 - wired
+- (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/lecture-notes/Lecture1Final.pdf)
+- (https://en.wikipedia.org/wiki/Artificial_intelligence)
+- (https://www.wired.com/2016/12/artificial-intelligence-artificial-intelligent/)
 
 **Examples of AI applications**
 
@@ -30,7 +33,7 @@ Majortiy thinks not possible
 - search engine
 - gaming
 - big data - images, tweets, police records, determind trend, MRI scans.
-- AI assist Trump to win, data mining [ref]
+- [AI and Trump](https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win)
 
 **What *intelligence* would you like to achieve**
 - mind organizer with affilation
@@ -44,7 +47,11 @@ Majortiy thinks not possible
 - everyone can take, non-only tech people, disclaimer to indicate 'i am a bot'. a person can be a 'bot': reading script.
 
 **What are the ingredients**
-- a lot of data. Is it all the time? [ref]
+- a lot of data. Is it all the time? 
+  - (https://sites.google.com/site/dataefficientml/)
+  - (http://www.kdnuggets.com/2015/06/machine-learning-more-data-better-algorithms.html)
+  - (http://datascience.stackexchange.com/questions/6092/how-to-generate-ratings-without-training-data)
+  
 - sensors
 - reference data 
 - evolutionary algorithms
