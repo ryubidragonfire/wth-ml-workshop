@@ -19,7 +19,6 @@ Majortiy thinks not possible
 - ref wikipedia
 - wired
 
-
 **Examples of AI applications**
 
 - chatbot: friendly, "appear" to understand intent, offer help at the right time.
@@ -31,7 +30,7 @@ Majortiy thinks not possible
 - search engine
 - gaming
 - big data - images, tweets, police records, determind trend, MRI scans.
-- AI asist trump to win, data mining [ref]
+- AI assist Trump to win, data mining [ref]
 
 **What *intelligence* would you like to achieve**
 - mind organizer with affilation
