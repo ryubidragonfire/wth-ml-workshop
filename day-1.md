@@ -8,6 +8,17 @@ Majortiy not possible
 
 **What is AI**
 
+- Getting better in time
+- Change with time without human intervention
+- create new rules
+- must be programmed.
+- learn by itself
+- learn through interaction
+- learning from the past.
+- machine has human characteristics, e.g. emotion, is it necessary to have AI?
+- 
+
+
 **Examples of AI applications**
 
 **What *intelligence* would you like to achieve**
