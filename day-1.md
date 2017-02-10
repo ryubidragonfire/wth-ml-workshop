@@ -16,7 +16,8 @@ Majortiy not possible
 - learn through interaction
 - learning from the past.
 - machine has human characteristics, e.g. emotion, is it necessary to have AI?
-- 
+- ref wikipedia
+- wired
 
 
 **Examples of AI applications**
