@@ -38,7 +38,7 @@ Majortiy thinks not possible
 - social intelligence: conversation context, emotional recognition, mood, improve socials
 - large scale people get along: model of society you arrive at a concensus that eveyone can live in harmony.
 - protect vulnerable people, prevent people manipulation. advertisement = maniputation
-- transparency (peeling onions)
+- transparency
 - reduce food waste
 
 **How to achieve that**
