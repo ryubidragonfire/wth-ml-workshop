@@ -4,7 +4,7 @@
 
 **Be an expert in 6 workshops**
 
-Majortiy not possible
+Majortiy thinks not possible
 
 **What is AI**
 
