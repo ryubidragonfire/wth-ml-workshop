@@ -22,6 +22,16 @@ Majortiy not possible
 
 **Examples of AI applications**
 
+- chatbot: friendly, "appear" to understand intent, offer help at the right time.
+- netflix, spotifity, recommendation
+- auto pilot, self-driving
+- household appliance
+- fintech
+- feed curation
+- search engine
+- gaming
+- big data - images, tweets, police records, determind trend, MRI scans.
+
 **What *intelligence* would you like to achieve**
 
 **How to achieve that**
