@@ -16,8 +16,6 @@ Majortiy thinks not possible
 - learn through interaction
 - learning from the past.
 - machine has human characteristics, e.g. emotion, is it necessary to have AI?
-- ref wikipedia
-- wired
 - (https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/lecture-notes/Lecture1Final.pdf)
 - (https://en.wikipedia.org/wiki/Artificial_intelligence)
 - (https://www.wired.com/2016/12/artificial-intelligence-artificial-intelligent/)
