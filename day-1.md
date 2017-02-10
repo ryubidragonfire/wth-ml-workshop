@@ -42,8 +42,14 @@ Majortiy not possible
 - reduce food waste
 
 **How to achieve that**
+- everyone can take, non-only tech people, disclaimer to indicate 'i am a bot'. a person can be a 'bot': reading script.
 
 **What are the ingredients**
+- a lot of data. Is it all the time? [ref]
+- sensors
+- reference data 
+- evolutionary algorithms
+- success metrics: algorithmic, user-aspect
 
 **Jobs**
 
