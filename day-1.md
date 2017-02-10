@@ -31,8 +31,15 @@ Majortiy not possible
 - search engine
 - gaming
 - big data - images, tweets, police records, determind trend, MRI scans.
+- AI asist trump to win, data mining [ref]
 
 **What *intelligence* would you like to achieve**
+- mind organizer with affilation
+- social intelligence: conversation context, emotional recognition, mood, improve socials
+- large scale people get along: model of society you arrive at a concensus that eveyone can live in harmony.
+- protect vulnerable people, prevent people manipulation. advertisement = maniputation
+- transparency (peeling onions)
+- reduce food waste
 
 **How to achieve that**
 
