@@ -3,6 +3,7 @@
 ### All knowledge accumlulated here are provided by the workshop participants.
 
 **Be an expert in 6 workshops**
+Majortiy not possible
 
 **What is AI**
 
