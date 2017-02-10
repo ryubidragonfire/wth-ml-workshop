@@ -56,10 +56,16 @@ Majortiy not possible
 **Tools**
 
 **Cheat sheet**
+- (https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
+- (http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- (http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)
+- (http://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/)
 
 **What else would you like to know**
 
 **Hands-on**
+- (https://studio.azureml.net/)
 
 ### Reference:
+- Remember to send me your link, or update here if you do git hub.
 - [Difference Between AI and ML](http://www.forbes.com/sites/bernardmarr/2016/12/06/what-is-the-difference-between-artificial-intelligence-and-machine-learning/#25effcae687c)
