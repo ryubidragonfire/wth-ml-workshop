@@ -33,6 +33,9 @@ Majortiy thinks not possible
 - big data - images, tweets, police records, determind trend, MRI scans.
 - [AI and Trump](https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win)
 
+**AI Landscape UK**
+- http://www.mmcventures.com/artificial-intelligence-uk-landscape-learnings-226-startups-mmc-insights/
+
 **What *intelligence* would you like to achieve**
 - mind organizer with affilation
 - social intelligence: conversation context, emotional recognition, mood, improve socials
