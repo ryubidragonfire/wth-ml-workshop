@@ -3,7 +3,8 @@
 
 Please get ready the following BEFORE the workshop:
 - Python 3.x
-- git account (if you would like to share your learnings/projects/thoughts)
+- github account (if you would like to share your learnings/projects/thoughts)
+- email me your github username, so that I can add you to this repository as a collaborator, so that you can also update the pages.
 
 **What is Data**
 
