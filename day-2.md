@@ -1,7 +1,7 @@
 ## 24th Feb 2017
 ## All knowledge accumlulated here are provided by the workshop participants.
 
-Please get ready the following BEFORE the workshop:
+### Please get ready the following BEFORE the workshop:
 - Python 3.x
 - github account (if you would like to share your learnings/projects/thoughts)
 - email me your github username, so that I can add you to this repository as a collaborator, so that you can also update the pages.
