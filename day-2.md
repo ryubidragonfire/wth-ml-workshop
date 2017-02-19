@@ -1,6 +1,8 @@
 ## 24th Feb 2017
 ## All knowledge accumlulated here are provided by the workshop participants.
 
+** !! 24 March -> 31 March!! **
+
 ### Please get ready the following BEFORE the workshop:
 - Python 3.x
 - github account (if you would like to share your learnings/projects/thoughts)
