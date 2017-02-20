@@ -34,6 +34,7 @@ Majortiy thinks not possible
 - [AI and Trump](https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win)
 - https://medium.com/intuitionmachine/the-alien-look-of-deep-learning-generative-design-5c5f871f7d10#.qx5lj2a0z
 - https://www.dezeen.com/2017/02/06/generative-design-software-will-give-designers-superpowers-autodesk-university/
+- [wide and deep recommender system, tensor flow](https://www.youtube.com/watch?v=NV1tkZ9Lq48&index=16&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 
 **AI Landscape UK**
 - http://www.mmcventures.com/artificial-intelligence-uk-landscape-learnings-226-startups-mmc-insights/
