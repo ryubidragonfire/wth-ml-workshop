@@ -28,4 +28,6 @@ https://blog.modeanalytics.com/python-data-visualization-libraries/
 http://matplotlib.org/examples/index.html
 http://moderndata.plot.ly/machine-learning-visualizations-made-in-python-and-r/
 https://pythonprogramming.net/image-recognition-python/
+http://bokeh.pydata.org/en/latest/
+
 
