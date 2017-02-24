@@ -17,6 +17,7 @@
 
 **Data exploration via visualisation**
 - distribution (box plot, density distribution)
+[box plot] http://www.physics.csbsju.edu/stats/box2.html
 - correlation matrix
 
 
