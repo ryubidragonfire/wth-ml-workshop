@@ -34,3 +34,9 @@ https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-v
 
 **Iris File**
 http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/
+
+**Commands**
+
+df.to_csv("./data/another-iris.csv", header=None, index=False, sep=',', encoding='utf-8')
+
+df.to_csv("./data/iris.tsv", header=None, index=False, sep='\t', encoding='utf-8')
