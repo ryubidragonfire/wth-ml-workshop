@@ -29,6 +29,6 @@ http://matplotlib.org/examples/index.html
 http://moderndata.plot.ly/machine-learning-visualizations-made-in-python-and-r/
 https://pythonprogramming.net/image-recognition-python/
 http://bokeh.pydata.org/en/latest/
-
+http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/
 
 
