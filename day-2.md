@@ -32,4 +32,5 @@ http://bokeh.pydata.org/en/latest/
 http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/       
 https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
 
-
+**Iris File**
+!curl https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data -o "./data/iris.csv"
