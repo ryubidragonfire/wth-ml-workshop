@@ -25,6 +25,6 @@
 **I didn't know where to put this [Viv]**
 
 https://blog.modeanalytics.com/python-data-visualization-libraries/
-
+http://matplotlib.org/examples/index.html
 http://moderndata.plot.ly/machine-learning-visualizations-made-in-python-and-r/
 
