@@ -1,7 +1,7 @@
 ## 24th Feb 2017
 ## All knowledge accumlulated here are provided by the workshop participants.
 
-** !! 24 March -> 31 March!! **
+** !! 24 March -> 17 March!! **
 
 ### Please get ready the following BEFORE the workshop:
 - Python 3.x
