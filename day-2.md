@@ -23,8 +23,7 @@
 
 **What else would you like to know**
 
-**I didn't know where to put this [Viv]**
-
+### Reference:
 https://blog.modeanalytics.com/python-data-visualization-libraries/       
 http://matplotlib.org/examples/index.html       
 http://moderndata.plot.ly/machine-learning-visualizations-made-in-python-and-r/       
@@ -33,6 +32,9 @@ http://bokeh.pydata.org/en/latest/
 http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/       
 https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/
 
-**Iris File**
+### Iris File
 http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/
+
+### Interesting Stuff
+- http://www.fakenewschallenge.org/
 
