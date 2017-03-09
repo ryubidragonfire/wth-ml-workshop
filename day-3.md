@@ -15,6 +15,8 @@
 
 ### What is k-nearest-neighbour?
 
+### What happens when parameters change?
+
 | n_neighbors | weights | distance_metrics | accuracy |
 |-------------|---------|------------------|----------|
 |||||
