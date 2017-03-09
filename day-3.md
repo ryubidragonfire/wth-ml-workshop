@@ -15,6 +15,17 @@
 
 ### What is k-nearest-neighbour?
 
+| n_neighbors | weights | distance_metrics | accuracy |
+|-------------|---------|------------------|----------|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+
+
 ### Other algorithms?
 
 
