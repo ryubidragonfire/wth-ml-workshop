@@ -37,3 +37,4 @@
 
 ## Interesting Stuff:
 - put the link here if you have found interesting stuff to share
+ - http://pandas.pydata.org/pandas-docs/stable/10min.html
