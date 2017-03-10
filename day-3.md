@@ -12,6 +12,11 @@
 ## Split data into training set and test set
 
 ## Apply k-nearest-neighbour for classification
+- predict gender based some characteristic
+- predict type of food
+- predict user preference
+- predict a user profile based their behaviour
+- predict sentiment
 
 ### What is k-nearest-neighbour?
 
