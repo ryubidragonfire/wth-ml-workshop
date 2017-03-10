@@ -45,6 +45,8 @@
 
 ## Reference:
 - https://www.dataquest.io/blog/k-nearest-neighbors-in-python/
+
+## Today's lab
 - [hands-on exercise](https://github.com/ryubidragonfire/python-machine-learning-101/blob/master/classification-k-nn.ipynb)
 
 
