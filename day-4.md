@@ -12,9 +12,15 @@
   -?
 - **confusion matrix**
 
+## Today's lab
+- [Hands-on exercise](https://github.com/ryubidragonfire/python-machine-learning-101/blob/master/model-evaluation.ipynb)
+
+
 ## imdb dataset
 
 ## Group project
 - 4 groups, each group with 2-3 members
 - define a classification question
 - build a classifier that can answer that question
+
+
