@@ -24,13 +24,13 @@
 
 | n_neighbors | weights | distance_metrics | accuracy |
 |-------------|---------|------------------|----------|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|5|uniform|euclidean|0.95|
+|5|uniform|manhattan|0.93|
+|5|uniform|euclidean|0.95|
+|21|uniform|euclidean|0.91|
+|17|uniform|euclidean|0.95|
+|31|uniform|manhattan|0.91|
+|5|distance|euclidean|1|
 
 
 ### Other algorithms?
