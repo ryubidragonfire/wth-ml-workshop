@@ -22,15 +22,16 @@
 
 ### What happens when parameters change?
 
-| n_neighbors | weights | distance_metrics | accuracy |
-|-------------|---------|------------------|----------|
-|5|uniform|euclidean|0.95|
-|5|uniform|manhattan|0.93|
-|5|uniform|euclidean|0.95|
-|21|uniform|euclidean|0.91|
-|17|uniform|euclidean|0.95|
-|31|uniform|manhattan|0.91|
-|5|distance|euclidean|1|
+| n_neighbors | weights | distance_metrics | accuracy |random_state|
+|-------------|---------|------------------|----------|------------|
+|5|uniform|euclidean|0.95|8|
+|5|uniform|manhattan|0.93|8|
+|5|uniform|euclidean|0.95|8|
+|21|uniform|euclidean|0.91|8|
+|17|uniform|euclidean|0.95|8|
+|31|uniform|manhattan|0.91|8|
+|5|distance|euclidean|1|9|
+
 
 
 ### Other algorithms?
