@@ -32,7 +32,7 @@
 
 
 ## Reference:
-- put your reference here
+- https://www.dataquest.io/blog/k-nearest-neighbors-in-python/
 
 
 ## Interesting Stuff:
