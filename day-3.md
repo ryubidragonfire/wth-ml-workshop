@@ -33,9 +33,15 @@
 |5|distance|euclidean|1|9|
 
 
-
 ### Other algorithms?
-
+- elastic matching
+- perceptron
+- decision forest
+- neural-network
+- logistic regression
+- naive bayes
+- decision jungle
+- decision tree
 
 ## Reference:
 - https://www.dataquest.io/blog/k-nearest-neighbors-in-python/
