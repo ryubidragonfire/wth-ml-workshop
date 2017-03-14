@@ -16,6 +16,11 @@
 ## Today's lab
 - [Hands-on exercise](https://github.com/ryubidragonfire/python-machine-learning-101/blob/master/model-evaluation.ipynb)
 
+# Group project
+- 4 groups, each group with 2-3 members
+- define a classification question
+- build a classifier that can answer that question
+
 
 ## imdb dataset
 - http://www.imdb.com/interfaces, click on either of these:
@@ -29,10 +34,4 @@
 
 ## imdb example
 - https://blog.nycdatascience.com/student-works/machine-learning/movie-rating-prediction/
-
-## Group project
-- 4 groups, each group with 2-3 members
-- define a classification question
-- build a classifier that can answer that question
-
 
