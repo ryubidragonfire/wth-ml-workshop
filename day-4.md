@@ -20,7 +20,11 @@
 - 4 groups, each group with 2-3 members
 - define a classification question
 - build a classifier that can answer that question
+- suggest: come in every Friday to disucss with your group member and work on it.
 
+## github
+- create a repo for your project, with your team members as `contributor`. 
+- you are not allowed to leave the workshop, until you get this done :)
 
 ## imdb dataset
 - http://www.imdb.com/interfaces, click on either of these:
