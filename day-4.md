@@ -21,6 +21,14 @@
 - http://www.imdb.com/interfaces, click on either of these:
  - ftp.fu-berlin.de (Germany)
  - ftp.funet.fi (Finland)
+- imdb dataset prepared by [chuansun76](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
+  - download this
+  - visualise the dataset
+  - what questions to ask? 
+  - what are the possible solutions (limit this to classification, for now)?
+
+## imdb example
+- https://blog.nycdatascience.com/student-works/machine-learning/movie-rating-prediction/
 
 ## Group project
 - 4 groups, each group with 2-3 members
