@@ -27,7 +27,7 @@
  - ftp.fu-berlin.de (Germany)
  - ftp.funet.fi (Finland)
 - imdb dataset prepared by [chuansun76](https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset)
-  - download this
+  - download this one
   - visualise the dataset
   - what questions to ask? 
   - what are the possible solutions (limit this to classification, for now)?
