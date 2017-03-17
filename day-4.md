@@ -15,6 +15,8 @@
 - http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
 - **Evaluation vs Cross-Validation**
 - https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-evaluate-model-performance
+- Performance measures for machine learning
+- https://www.cs.cornell.edu/courses/cs578/2003fa/performance_measures.pdf
 
 ## Today's lab
 - [Hands-on exercise](https://github.com/ryubidragonfire/python-machine-learning-101/blob/master/model-evaluation.ipynb)
