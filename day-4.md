@@ -28,6 +28,10 @@
 
 # Group project
 - 4 groups, each group with 2-3 members
+  - Robot Iris
+  - Fun with Data
+  - Pyfun
+  
 - define a classification question
 - build a classifier that can answer that question
 - suggest: come in every Friday to disucss with your group member and work on it.
