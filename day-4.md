@@ -1,3 +1,4 @@
+
 # 17th March 2017
 
 ## All knowledge accumlulated here are provided by the workshop participants.
@@ -17,6 +18,7 @@
 - https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-evaluate-model-performance
 - Performance measures for machine learning
 - https://www.cs.cornell.edu/courses/cs578/2003fa/performance_measures.pdf
+- http://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms
 
 ## Today's lab
 - [Hands-on exercise](https://github.com/ryubidragonfire/python-machine-learning-101/blob/master/model-evaluation.ipynb)
