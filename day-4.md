@@ -70,4 +70,8 @@
 lots of examples of manipulating the data set here:
 https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset/kernels
 
+- Natural Language Toolkit (NLTK) - processing human language
+- https://nltk.readthedocs.io/en/latest/
+
+
 
