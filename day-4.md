@@ -13,6 +13,8 @@
   -?
 - **confusion matrix**
 - http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
+- **Evaluation vs Cross-Validation**
+- https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-evaluate-model-performance
 
 ## Today's lab
 - [Hands-on exercise](https://github.com/ryubidragonfire/python-machine-learning-101/blob/master/model-evaluation.ipynb)
