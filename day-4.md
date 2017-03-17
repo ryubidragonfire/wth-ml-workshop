@@ -21,6 +21,7 @@
 - http://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms
 - **Unbalanced Data**
 - http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
+- https://www.quora.com/In-classification-how-do-you-handle-an-unbalanced-training-set
 
 ## Today's lab
 - [Hands-on exercise](https://github.com/ryubidragonfire/python-machine-learning-101/blob/master/model-evaluation.ipynb)
