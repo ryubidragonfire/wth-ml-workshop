@@ -19,6 +19,8 @@
 - Performance measures for machine learning
 - https://www.cs.cornell.edu/courses/cs578/2003fa/performance_measures.pdf
 - http://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms
+**Unbalanced Data**
+http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
 
 ## Today's lab
 - [Hands-on exercise](https://github.com/ryubidragonfire/python-machine-learning-101/blob/master/model-evaluation.ipynb)
