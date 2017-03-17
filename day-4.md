@@ -12,6 +12,7 @@
 - what metrics do sklearn provide
   -?
 - **confusion matrix**
+- http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
 
 ## Today's lab
 - [Hands-on exercise](https://github.com/ryubidragonfire/python-machine-learning-101/blob/master/model-evaluation.ipynb)
