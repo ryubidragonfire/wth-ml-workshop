@@ -45,7 +45,7 @@
     - Predict the duration of the movie depending on x features
     - Predict the budget of the movie depending on x features - complexity with year made and inflation.
   - Pyfun
-    -
+    - Predict the gross earnings depending x features
   
 - build a classifier that can answer that question
 - suggest: come in every Friday to disucss with your group member and work on it.
