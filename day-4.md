@@ -36,7 +36,7 @@
   
 - define a classification question
   - Robot Iris
-    - 
+    - Ideas: IMDb score (labelled as high / medium / low) / country of origin
   - Fun with Data
     - 
   - Pyfun
