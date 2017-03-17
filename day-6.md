@@ -1,4 +1,4 @@
-## 7th April 2017
+## 28th April 2017
 
 ## All knowledge accumlulated here are provided by the workshop participants.
 
