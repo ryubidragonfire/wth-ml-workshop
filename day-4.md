@@ -38,7 +38,12 @@
   - Robot Iris
     - Ideas: IMDb score (labelled as high / medium / low) / country of origin
   - Fun with Data
-    - 
+    - [Current choice]Predict the genre of the movie depending on x features e.g. Plot key words, content_rating, actors, facebook likes, year?
+    - Predict the rating of the movie depending on xfeatures e.g. Plot key words, Actors, facebook likes, age of the movie, title length
+    - Predict the parental guidance the be depending on x features
+    - Predict the country of origin of the movie depending on x features
+    - Predict the duration of the movie depending on x features
+    - Predict the budget of the movie depending on x features - complexity with year made and inflation.
   - Pyfun
     -
   
