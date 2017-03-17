@@ -35,7 +35,7 @@
   - Pyfun
   
 - define a classification question
-  - Robot Iris
+  - Robot Iris https://github.com/katjad/iris-robot-imdb/
     - IMDb score (labelled as high / medium / low)
     - Country of origin
     - Facebook likes
