@@ -14,11 +14,13 @@
   -?
 - **confusion matrix**
 - http://machinelearningmastery.com/classification-accuracy-is-not-enough-more-performance-measures-you-can-use/
+
 - **Evaluation vs Cross-Validation**
 - https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-evaluate-model-performance
 - Performance measures for machine learning
 - https://www.cs.cornell.edu/courses/cs578/2003fa/performance_measures.pdf
 - http://machinelearningmastery.com/how-to-evaluate-machine-learning-algorithms
+
 - **Unbalanced Data**
 - http://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/
 - https://www.quora.com/In-classification-how-do-you-handle-an-unbalanced-training-set
@@ -33,6 +35,13 @@
   - Pyfun
   
 - define a classification question
+  - Robot Iris
+    - 
+  - Fun with Data
+    - 
+  - Pyfun
+    -
+  
 - build a classifier that can answer that question
 - suggest: come in every Friday to disucss with your group member and work on it.
 
