@@ -38,6 +38,7 @@
   - Robot Iris
     - IMDb score (labelled as high / medium / low)
     - Country of origin
+    - Facebook likes
   - Fun with Data
     - [Current choice]Predict the genre of the movie depending on x features e.g. Plot key words, content_rating, actors, facebook likes, year?
     - Predict the rating of the movie depending on xfeatures e.g. Plot key words, Actors, facebook likes, age of the movie, title length
