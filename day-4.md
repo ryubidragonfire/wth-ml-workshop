@@ -46,7 +46,7 @@
     - Predict the country of origin of the movie depending on x features
     - Predict the duration of the movie depending on x features
     - Predict the budget of the movie depending on x features - complexity with year made and inflation.
-  - Pyfun
+  - Pyfun : https://github.com/tailless/pyfun
     - Predict the gross earnings depending x features
   
 - build a classifier that can answer that question
