@@ -8,3 +8,4 @@
 2. bla bla
 
 Documentation for numpy package http://www.numpy.org/ 
+Documentation for pandas package http://pandas.pydata.org/pandas-docs/stable/
