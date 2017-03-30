@@ -7,5 +7,8 @@
 1. bla bla
 2. bla bla
 
-Documentation for numpy package http://www.numpy.org/ 
-Documentation for pandas package http://pandas.pydata.org/pandas-docs/stable/
+- Documentation for numpy package http://www.numpy.org/ 
+- Documentation for pandas package http://pandas.pydata.org/pandas-docs/stable/
+
+## Interesting Read
+- [The AI Misinformation Epidemic](http://approximatelycorrect.com/2017/03/28/the-ai-misinformation-epidemic/)
