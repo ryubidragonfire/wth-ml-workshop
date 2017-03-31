@@ -12,3 +12,4 @@
 
 ## Interesting Read
 - [The AI Misinformation Epidemic](http://approximatelycorrect.com/2017/03/28/the-ai-misinformation-epidemic/)
+- [do androids dream of cooking?](https://gist.github.com/nylki/1efbaa36635956d35bcc)
