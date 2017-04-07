@@ -3,10 +3,10 @@
 ## All knowledge accumlulated here are provided by the workshop participants.
 
 ## Please help others to learn. Put your **Questions** here, help others by giving your **Answers** here.
+1. regression
+  - [linear regression](http://nbviewer.jupyter.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
 
-1. bla bla
-2. bla bla
-
+## Reference:
 - Documentation for numpy package http://www.numpy.org/ 
 - Documentation for pandas package http://pandas.pydata.org/pandas-docs/stable/
 
