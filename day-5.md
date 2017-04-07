@@ -9,6 +9,7 @@
 ## Reference:
 - Documentation for numpy package http://www.numpy.org/ 
 - Documentation for pandas package http://pandas.pydata.org/pandas-docs/stable/
+- Very good material for 101 https://github.com/justmarkham/DAT4
 
 ## Interesting Read
 - [The AI Misinformation Epidemic](http://approximatelycorrect.com/2017/03/28/the-ai-misinformation-epidemic/)
