@@ -5,6 +5,8 @@
 ## Please help others to learn. Put your **Questions** here, help others by giving your **Answers** here.
 1. regression
   - [linear regression](http://nbviewer.jupyter.org/github/justmarkham/DAT4/blob/master/notebooks/08_linear_regression.ipynb)
+2. plotting
+  - label rotation: http://matplotlib.org/examples/ticks_and_spines/ticklabels_demo_rotation.html
 
 ## Reference:
 - Documentation for numpy package http://www.numpy.org/ 
