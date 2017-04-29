@@ -16,18 +16,27 @@ Q and A is 10 mins.
 
 ## That day in history
 ** Team PyFun **
-Presentation (to be updated) 
-[Video: main + Q and A]()
+
 Description: Result beat some other methods out there, including a published paper. 
 
+- Presentation (to be updated) 
+- [Video: main + Q and A]()
+
+
 ** Team Robot Iris **
-Presentation (to be updated)
-[Video: main](https://youtu.be/JaV-SzGAc1g)
-[Video: additional](https://youtu.be/Z8mmfnKGjDg)
-[Video: Q and A](https://youtu.be/0u9Xei02H2A)
+
 Description: Deep analysis on data.
 
+- [Presentation](https://github.com/katjad/iris-robot-imdb/blob/master/IMDb%20Data%20Exploration%20%26%20Machine%20Learning.pptx)
+- [Video: main](https://youtu.be/JaV-SzGAc1g)
+- [Video: additional](https://youtu.be/Z8mmfnKGjDg)
+- [Video: Q and A](https://youtu.be/0u9Xei02H2A)
+
+
 ** Team Fun With Data **
-Presentation (to be updated)
-[video: main + Q and A](https://youtu.be/G4XbZdejhf8)
+
 Description: overview on data science and machine learning process.
+
+- Presentation (to be updated)
+- [video: main + Q and A](https://youtu.be/G4XbZdejhf8)
+
