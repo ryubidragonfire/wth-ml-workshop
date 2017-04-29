@@ -20,7 +20,7 @@ Q and A is 10 mins.
 Description: Result beat some other methods out there, including a published paper. 
 
 - Presentation (to be updated) 
-- [Video: main + Q and A]()
+- [Video: main + Q and A](https://youtu.be/RNeDjUazUlg)
 
 
 **Team Robot Iris**
