@@ -14,3 +14,5 @@ Notes on WTH ML Workshop
 [day-6](https://github.com/ryubidragonfire/wth-ml-workshop/blob/master/day-6.md)
 - presentations
 - feedback (to be updated)
+
+[epilogue](https://github.com/ryubidragonfire/wth-ml-workshop/blob/master/epilogue.md)
