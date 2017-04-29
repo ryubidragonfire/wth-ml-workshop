@@ -17,7 +17,8 @@ Q and A is 10 mins.
 ## That day in history
 **Team PyFun**
 [Team repo](https://github.com/tailless/pyfun)
-Description: Result beat some other methods out there, including a published paper. 
+
+Highlight: Result beat some other methods out there, including a published paper. 
 
 - Presentation (to be updated) 
 - [Video: main + Q and A](https://youtu.be/RNeDjUazUlg)
@@ -25,7 +26,8 @@ Description: Result beat some other methods out there, including a published pap
 
 **Team Robot Iris**
 [Team repo](https://github.com/katjad/iris-robot-imdb/)
-Description: Deep analysis on data.
+
+Highlight: Deep analysis on data.
 
 - [Presentation](https://github.com/katjad/iris-robot-imdb/blob/master/IMDb%20Data%20Exploration%20%26%20Machine%20Learning.pptx)
 - [Video: main](https://youtu.be/JaV-SzGAc1g)
@@ -35,7 +37,8 @@ Description: Deep analysis on data.
 
 **Team Fun With Data**
 [Team repo](https://github.com/kalinasp/wth-funwithdata)
-Description: overview on data science and machine learning process.
+
+Highlight: overview on data science and machine learning process.
 
 - [Presentation](https://github.com/kalinasp/wth-funwithdata/blob/master/Funwithdata.odp)
 - [Jupyter Notebook](https://github.com/kalinasp/wth-funwithdata/blob/master/Experiments%20fun%20with%20data.ipynb)
