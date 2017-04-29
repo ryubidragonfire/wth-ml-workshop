@@ -15,32 +15,30 @@ You will have 20 mins.
 Q and A is 10 mins.
 
 ## That day in history
-**Team PyFun**
-[Team repo](https://github.com/tailless/pyfun)
 
-Highlight: Result beat some other methods out there, including a published paper. 
+**1. Team Fun With Data**
+[Team repo](https://github.com/kalinasp/wth-funwithdata)
 
-- Presentation (to be updated) 
-- [Video: main + Q and A](https://youtu.be/RNeDjUazUlg)
+Highlight: **overview on data science and machine learning process**
 
+- [Presentation](https://github.com/kalinasp/wth-funwithdata/blob/master/Funwithdata.odp)
+- [Jupyter Notebook](https://github.com/kalinasp/wth-funwithdata/blob/master/Experiments%20fun%20with%20data.ipynb)
+- [video: main + Q and A](https://youtu.be/G4XbZdejhf8)
 
-**Team Robot Iris**
+**2. Team Robot Iris**
 [Team repo](https://github.com/katjad/iris-robot-imdb/)
 
-Highlight: Deep analysis on data.
+Highlight: **Deep analysis on data**
 
 - [Presentation](https://github.com/katjad/iris-robot-imdb/blob/master/IMDb%20Data%20Exploration%20%26%20Machine%20Learning.pptx)
 - [Video: main](https://youtu.be/JaV-SzGAc1g)
 - [Video: additional](https://youtu.be/Z8mmfnKGjDg)
 - [Video: Q and A](https://youtu.be/0u9Xei02H2A)
 
+**3. Team PyFun**
+[Team repo](https://github.com/tailless/pyfun)
 
-**Team Fun With Data**
-[Team repo](https://github.com/kalinasp/wth-funwithdata)
+Highlight: **Results beat some other methods out there, including a published paper** 
 
-Highlight: overview on data science and machine learning process.
-
-- [Presentation](https://github.com/kalinasp/wth-funwithdata/blob/master/Funwithdata.odp)
-- [Jupyter Notebook](https://github.com/kalinasp/wth-funwithdata/blob/master/Experiments%20fun%20with%20data.ipynb)
-- [video: main + Q and A](https://youtu.be/G4XbZdejhf8)
-
+- Presentation (to be updated) 
+- [Video: main + Q and A](https://youtu.be/RNeDjUazUlg)
