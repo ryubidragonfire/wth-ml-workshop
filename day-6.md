@@ -15,7 +15,7 @@ You will have 20 mins.
 Q and A is 10 mins.
 
 ## That day in history
-** Team PyFun **
+**Team PyFun**
 
 Description: Result beat some other methods out there, including a published paper. 
 
@@ -23,7 +23,7 @@ Description: Result beat some other methods out there, including a published pap
 - [Video: main + Q and A]()
 
 
-** Team Robot Iris **
+**Team Robot Iris**
 
 Description: Deep analysis on data.
 
@@ -33,7 +33,7 @@ Description: Deep analysis on data.
 - [Video: Q and A](https://youtu.be/0u9Xei02H2A)
 
 
-** Team Fun With Data **
+**Team Fun With Data**
 
 Description: overview on data science and machine learning process.
 
