@@ -13,3 +13,21 @@ You will have 20 mins.
 6. Where would you go from here? **3 mins here**
 
 Q and A is 10 mins.
+
+## That day in history
+** Team PyFun **
+Presentation (to be updated) 
+[Video: main + Q and A]()
+Description: Result beat some other methods out there, including a published paper. 
+
+** Team Robot Iris **
+Presentation (to be updated)
+[Video: main](https://youtu.be/JaV-SzGAc1g)
+[Video: additional](https://youtu.be/Z8mmfnKGjDg)
+[Video: Q and A](https://youtu.be/0u9Xei02H2A)
+Description: Deep analysis on data.
+
+** Team Fun With Data **
+Presentation (to be updated)
+[video: main + Q and A](https://youtu.be/G4XbZdejhf8)
+Description: overview on data science and machine learning process.
